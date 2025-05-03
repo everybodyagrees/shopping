@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://shopeasy.com/sitemap.xml
+
+# Disallow admin directory
+Disallow: /admin/ 
